@@ -7,7 +7,14 @@
   The Gatsby Health-and-Wellness theme
 </h1>
 
-A Gatsby theme for health and wellness system.
+A Gatsby theme for Health and Wellness system called "HealthScore".
+
+<div style="display:flex;">
+  <img src="https://user-images.githubusercontent.com/56475750/229354964-34ed80dc-710e-4cd4-8157-c189405d29a1.jpg" 
+            alt="before" width="300"/>
+  <img src="https://user-images.githubusercontent.com/56475750/229354967-5f4fdf6e-7a52-4d0e-8639-e36a8b9efa80.jpg" 
+            alt="after" width="302.5"/>
+</div>
 
 ## Test the site
 
@@ -18,7 +25,7 @@ yarn develop
 
 ## Installation
 
-1. Install the Health-and-Wellness theme
+1. Install the Health-and-Wellness Theme
 
 ```shell
 yarn add health-and-wellness-theme
@@ -40,7 +47,7 @@ module.exports = {
 }
 ```
 
-4. Run your site using `gatsby develop` and navigate to your health-and-wellness-system site.
+4. Run your site using `gatsby develop` and navigate to your hotel-management-system site.
 
 ## Usage
 
@@ -70,3 +77,5 @@ module.exports = {
 ### Additional configuration
 
 In addition to the theme options, there are a handful of items you can customize via the `siteMetadata` object in your site's `gatsby-config.js`
+
+#### Build by [Shwet Khatri](https://github.com/ShwetKhatri2001)

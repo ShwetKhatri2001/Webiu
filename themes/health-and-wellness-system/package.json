@@ -1,0 +1,7 @@
+{
+    "private": true,
+    "workspaces": ["health-and-wellness-theme", "site"],
+    "scripts": {
+      "develop": "yarn workspace site develop"
+    }
+  }

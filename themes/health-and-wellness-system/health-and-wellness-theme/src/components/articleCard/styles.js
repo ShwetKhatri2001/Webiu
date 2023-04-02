@@ -17,7 +17,6 @@ const Styles = makeStyles(theme => ({
     },
   },
   imageContainer: {
-    width: "100%",
     "& img": {
       transition: "all 0.3s ease",
       width: "100%",

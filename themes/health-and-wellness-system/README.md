@@ -16,6 +16,8 @@ A Gatsby theme for Health and Wellness system called "HealthScore".
             alt="after" width="302.5"/>
 </div>
 
+### [Live Demo Link](https://myhealthscore.netlify.app/)
+
 ## Test the site
 
 ```

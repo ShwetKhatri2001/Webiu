@@ -16,7 +16,7 @@ const Footer = () => {
             HealthScore provides progressive, and affordable healthcare,
             accessible on mobile and online for everyone
           </p>
-          <p>©HealthScore PTY LTD 2020. All rights reserved</p>
+          <p>©HealthScore PVT LTD 2023. All rights reserved</p>
         </div>
         <FooterLinkSet />
       </div>
